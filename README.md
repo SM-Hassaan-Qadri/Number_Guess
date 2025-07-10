@@ -1,4 +1,4 @@
-#🎮 Number Guessing Game
+#**🎮 Number Guessing Game**#
 
 This is a simple Python console game where the user tries to guess a randomly generated number between 1 and 10.
 📋 How It Works
